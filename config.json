@@ -1,0 +1,8 @@
+{
+    "host": "",
+    "port": ,
+    "secure": true,
+    "user" : "",
+    "pass" : "",
+    "rejectUnauthorized" : false
+}
