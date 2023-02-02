@@ -1,8 +1,8 @@
 {
-    "host": "mail.teratechsystems.co.ke",
+    "host": "",
     "port": 465,
     "secure": true,
-    "user" : "no-reply@teratechsystems.co.ke",
-    "pass" : "Ex}rR.cv*e-X",
+    "user" : "",
+    "pass" : "",
     "rejectUnauthorized" : false
 }
