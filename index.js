@@ -31,7 +31,7 @@ var mailSender = nodeMailer.createTransport({
 //** sending email to single receipt with attachment */
 var mailObject = {
     from: auth.user,
-    to: "peter.mwendwa@ronforddigital.com",
+    to: "admin@mail.com",
     subject: "Send Email via node js",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia.\n\nTech Team",
     attachments: [{   // utf-8 string as an attachment
